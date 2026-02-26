@@ -1,5 +1,5 @@
 import 'package:provider/provider.dart';
-import 'counter_model.dart';
+import 'models/counter_model.dart';
 
 void main() {
   runApp(
