@@ -10,7 +10,3 @@ class CounterModel extends ChangeNotifier {
     notifyListeners();
   }
 }
-
-class CounterModel {
-  int counter = 0;
-}
